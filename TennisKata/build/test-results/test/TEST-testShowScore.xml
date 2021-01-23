@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testShowScore" tests="15" skipped="0" failures="0" errors="0" timestamp="2021-01-23T06:21:08" hostname="adrian-GL62M-7RC" time="0.042">
+  <properties/>
+  <testcase name="Love_All()" classname="testShowScore" time="0.017"/>
+  <testcase name="Fifteen_All()" classname="testShowScore" time="0.001"/>
+  <testcase name="Love_Thirty()" classname="testShowScore" time="0.001"/>
+  <testcase name="Love_Fifteen()" classname="testShowScore" time="0.001"/>
+  <testcase name="Thirty_Love()" classname="testShowScore" time="0.001"/>
+  <testcase name="Deuce()" classname="testShowScore" time="0.001"/>
+  <testcase name="Player1Advantage()" classname="testShowScore" time="0.002"/>
+  <testcase name="Forty_Love()" classname="testShowScore" time="0.001"/>
+  <testcase name="Love_Forty()" classname="testShowScore" time="0.001"/>
+  <testcase name="player2Advantage()" classname="testShowScore" time="0.001"/>
+  <testcase name="Fifteen_Love()" classname="testShowScore" time="0.001"/>
+  <testcase name="Thirty_All()" classname="testShowScore" time="0.001"/>
+  <testcase name="Deuce1()" classname="testShowScore" time="0.001"/>
+  <testcase name="player1Win()" classname="testShowScore" time="0.001"/>
+  <testcase name="player2Win()" classname="testShowScore" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
